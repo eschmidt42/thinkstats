@@ -7,24 +7,24 @@ entries:
 - folders:
   - folderitems:
     - output: web,pdf
-      title: Export to modules
-      url: /export.html
+      title: Overview
+      url: /
     - output: web,pdf
-      title: Convert to html
-      url: /export2html.html
+      title: NSFG
+      url: /nsfg
     - output: web,pdf
-      title: Show doc
-      url: /showdoc.html
+      title: Basic Statistics
+      url: /basic_stats
     - output: web,pdf
-      title: Test functions
-      url: /test.html
+      title: Hypothesis testing
+      url: /hypothesis_testing
     - output: web,pdf
-      title: Core functions
-      url: /core.html
+      title: Linear least squares
+      url: /linear_least_squares
     - output: web,pdf
-      title: Command line functions
-      url: /cli.html
+      title: Hazard function / survival analysis
+      url: /hazard_function
     output: web
-    title: Notebook
+    title: thinkstats
   output: web
   title: Sidebar
