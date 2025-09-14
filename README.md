@@ -1,4 +1,4 @@
-# Think Stats
+# Think Stats - Archived
 > Notes I generated going through the *think stats* book [1,2].
 
 
